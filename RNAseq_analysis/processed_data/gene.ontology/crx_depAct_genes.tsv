@@ -1,0 +1,34 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+GO:0007601	visual perception	35/286	161/23328	1.20048793801028e-33	3.64708235567524e-30	3.36642091248357e-30	Rp1/Adgrv1/Pde6c/Rp1l1/Cplx4/Rpgrip1/Pde6b/Myo7a/Cnga3/Gnat2/Lrit3/Cep250/Grk1/Gucy2e/Rom1/Pde6h/Cabp4/Prph2/Rgs9bp/Ppef2/Rdh12/Cnga1/Abca4/Rs1/Gucy2f/Arr3/Prcd/Pde6g/Rho/Reep6/Pde6a/Rcvrn/Guca1a/Gnat1/Guca1b	35
+GO:0009583	detection of light stimulus	20/286	52/23328	2.66955521573968e-25	2.70336958180572e-22	2.49533161218615e-22	Pde6c/Pde6b/Gnat2/Gngt1/Cep250/Grk1/Rom1/Cabp4/Prph2/Rgs9bp/Cngb1/Rs1/Gnb1/Gucy2f/Rho/Reep6/Rcvrn/Guca1a/Gnat1/Guca1b	20
+GO:0007602	phototransduction	13/286	29/23328	6.12741993449422e-18	4.65377544024836e-15	4.29564386986647e-15	Pde6c/Gnat2/Gngt1/Grk1/Cabp4/Cngb1/Rs1/Gnb1/Rho/Rcvrn/Guca1a/Gnat1/Guca1b	13
+GO:0009582	detection of abiotic stimulus	21/286	132/23328	1.26697664154048e-17	7.53512574198033e-15	6.95525968491584e-15	Adgrv1/Pde6c/Pde6b/Gnat2/Gngt1/Cep250/Grk1/Rom1/Cabp4/Prph2/Rgs9bp/Cngb1/Rs1/Gnb1/Gucy2f/Rho/Reep6/Rcvrn/Guca1a/Gnat1/Guca1b	21
+GO:0009581	detection of external stimulus	21/286	133/23328	1.48817493258334e-17	7.53512574198033e-15	6.95525968491584e-15	Adgrv1/Pde6c/Pde6b/Gnat2/Gngt1/Cep250/Grk1/Rom1/Cabp4/Prph2/Rgs9bp/Cngb1/Rs1/Gnb1/Gucy2f/Rho/Reep6/Rcvrn/Guca1a/Gnat1/Guca1b	21
+GO:0042461	photoreceptor cell development	15/286	65/23328	1.76160571793219e-15	6.6896977138475e-13	6.17489162180442e-13	Rp1/Arl3/Pde6c/Rp1l1/Rpgrip1/Cnga3/Gnat2/Gngt1/Grk1/Rom1/Cabp4/Prph2/Cngb1/Nrl/Gnat1	15
+GO:0009416	response to light stimulus	24/286	298/23328	3.78228603577179e-13	1.14905849766747e-10	1.06063263150485e-10	Rp1/Map4k3/Pde6c/Pde6b/Gnat2/Gngt1/Cep250/Grk1/Rom1/Cabp4/Prph2/Rgs9bp/Cngb1/Rs1/Gnb1/Gucy2f/Hmgn1/Rho/Reep6/Rcvrn/Guca1a/Aqp1/Gnat1/Guca1b	24
+GO:0060041	retina development in camera-type eye	19/286	172/23328	4.29661146005363e-13	1.18664596505845e-10	1.09532755307013e-10	Rp1/Nectin1/Pde6c/Rp1l1/Rpgrip1/Pde6b/Cnga3/Gnat2/Grk1/Rom1/Mdm1/Cabp4/Prph2/Rs1/Nrl/Gnb1/Rho/Pde6a/Gnat1	19
+GO:0051606	detection of stimulus	22/286	247/23328	4.94790021004299e-13	1.25264340317588e-10	1.15624615434689e-10	Adgrv1/Pde6c/Pde6b/Gnat2/Gngt1/Cep250/Grk1/Rom1/Cabp4/Prph2/Rgs9bp/Ppef2/Cngb1/Rs1/Gnb1/Gucy2f/Rho/Reep6/Rcvrn/Guca1a/Gnat1/Guca1b	22
+GO:0045494	photoreceptor cell maintenance	11/286	45/23328	5.44408793309858e-12	9.42042796437191e-10	8.69547836079373e-10	Rp1/Adgrv1/Rp1l1/Crocc/Mdm1/Cngb1/Abca4/Esrrb/Rho/Pde6a/Nxnl1	11
+GO:0060271	cilium assembly	22/286	310/23328	4.49512218405173e-11	6.82809059757457e-09	6.30263447279674e-09	Rp1/Arl3/Tmem138/Bbs9/Rp1l1/Rpgrip1/Cep164/Crocc/Wdr60/Wdr78/Bbs5/Cep250/Fam161a/Snx10/Lrguk/Iqcg/Syne2/Ttc39c/Mns1/Ttll3/Dnaic1/Ccdc113	22
+GO:0044782	cilium organization	22/286	343/23328	3.12528023336745e-10	3.820922482045e-08	3.52688316141779e-08	Rp1/Arl3/Tmem138/Bbs9/Rp1l1/Rpgrip1/Cep164/Crocc/Wdr60/Wdr78/Bbs5/Cep250/Fam161a/Snx10/Lrguk/Iqcg/Syne2/Ttc39c/Mns1/Ttll3/Dnaic1/Ccdc113	22
+GO:0007018	microtubule-based movement	18/286	385/23328	1.47174937960807e-06	0.000126158103517047	0.000116449599033094	Arl3/Kif3b/Mgarp/Bicdl1/Ing2/Kif1b/Dpcd/Wdr60/Mreg/Wdr78/Spg7/Kif21b/Iqcg/Syne2/Kifc3/Wdr66/Dnaic1/Dnah9	18
+GO:0050906	detection of stimulus involved in sensory perception	11/286	142/23328	1.4949610686681e-06	0.000126158103517047	0.000116449599033094	Adgrv1/Gnat2/Cep250/Rom1/Prph2/Rgs9bp/Ppef2/Gucy2f/Rho/Reep6/Gnat1	11
+GO:0072521	purine-containing compound metabolic process	15/286	396/23328	0.000123081845419462	0.00958776016370065	0.00884993350060585	Eno2/Adcy6/Ddit4/Uqcc3/Gucy2e/Impdh1/Icmt/Guk1/Gucy2f/Gckr/Esrrb/Pfkfb2/Guca1a/Guca1b/Ppara	15
+GO:0099111	microtubule-based transport	10/286	195/23328	0.00015525698354449	0.011791767900204	0.0108843316884874	Arl3/Mgarp/Bicdl1/Kif1b/Dpcd/Wdr60/Mreg/Spg7/Syne2/Dnaic1	10
+GO:0030048	actin filament-based movement	8/286	126/23328	0.000166707054452292	0.012352586132343	0.0114019921196638	Myo7a/Nedd4l/Epb41l5/Snta1/Syne2/Rangrf/Kcne2/Rnf207	8
+GO:0008277	regulation of G protein-coupled receptor signaling pathway	8/286	127/23328	0.000176053757753516	0.012734555144171	0.0117545666830919	Zdhhc7/Usp33/Grk1/Pde6h/Arr3/Pde6g/Frmpd1/Ramp3	8
+GO:0070507	regulation of microtubule cytoskeleton organization	10/286	201/23328	0.000198575148233919	0.0140295651240615	0.0129499190916808	Rp1/Mapre3/Arhgef2/Camsap1/Trim36/Cep250/Mdm1/Rangrf/Gpsm2/Hspa1b	10
+GO:0060249	anatomical structure homeostasis	15/286	422/23328	0.000244802164694208	0.0169024767350228	0.0156017456159179	Slc17a7/Tjp2/Rp1/Adgrv1/Rp1l1/Crocc/Snx10/Mdm1/Cngb1/Rad51/Abca4/Esrrb/Rho/Pde6a/Nxnl1	15
+GO:0090407	organophosphate biosynthetic process	15/286	427/23328	0.000277471891071257	0.0183252088059669	0.016914991254321	Adcy6/Uqcc3/Agpat3/Gucy2e/Ipmk/Impdh1/Fgf2/Guk1/Ip6k2/Pnpla3/Ckmt1/Nadk2/Gucy2f/Guca1a/Guca1b	15
+GO:0001578	microtubule bundle formation	7/286	106/23328	0.00033514734830372	0.0216633541307809	0.0199962494038322	Rp1/Rp1l1/Wdr78/Trim36/Lrguk/Iqcg/Dnaic1	7
+GO:0086005	ventricular cardiac muscle cell action potential	4/286	28/23328	0.000359150666365631	0.0227312442587247	0.0209819599824132	Nedd4l/Snta1/Kcne2/Rnf207	4
+GO:0086001	cardiac muscle cell action potential	5/286	55/23328	0.000563752935584654	0.0342536283661236	0.0316176383241583	Nedd4l/Snta1/Rangrf/Kcne2/Rnf207	5
+GO:0060306	regulation of membrane repolarization	4/286	32/23328	0.00060695081466195	0.0361183028642491	0.0333388166835382	Nedd4l/Snta1/Kcne2/Rnf207	4
+GO:0071478	cellular response to radiation	8/286	153/23328	0.000618219798861407	0.0361183028642491	0.0333388166835382	Rp1/Gadd45a/Grk1/Rad51/Rs1/Rho/Aqp1/Gnat1	8
+GO:0006814	sodium ion transport	10/286	234/23328	0.00065985021842163	0.0378231125200927	0.0349124326092398	Slc17a7/Slc6a6/Nedd4l/Snta1/Klhl3/Rangrf/Drd4/Slc24a1/Scn4a/Slc17a4	10
+GO:0019934	cGMP-mediated signaling	4/286	34/23328	0.000767852327835356	0.041655988785068	0.0384503496494998	Gucy2e/Gucy2f/Guca1a/Aqp1	4
+GO:0006164	purine nucleotide biosynthetic process	8/286	160/23328	0.000828583835240603	0.044109676406504	0.0407152135916728	Adcy6/Uqcc3/Gucy2e/Impdh1/Guk1/Gucy2f/Guca1a/Guca1b	8
+GO:0061512	protein localization to cilium	5/286	60/23328	0.000842120221058997	0.044109676406504	0.0407152135916728	Arl3/Bbs9/Crocc/Snx10/Rom1	5
+GO:0006941	striated muscle contraction	8/286	163/23328	0.000934739392513459	0.0466564241651192	0.0430659762225416	Nedd4l/Snta1/Rangrf/Tnnt1/Arg2/Scn4a/Kcne2/Rnf207	8
+GO:0051656	establishment of organelle localization	13/286	382/23328	0.000936814310096204	0.0466564241651192	0.0430659762225416	Mgarp/Bicdl1/Kif1b/Arhgef2/Shroom2/Myo7a/Crocc/Fhod1/Mreg/Spry2/Syne2/Gpsm2/Rabgef1	13
+GO:1902115	regulation of organelle assembly	9/286	206/23328	0.00104225027139638	0.0482552301428393	0.0445417459895789	Rp1/Pip4k2c/Arhgef2/Crocc/Mdm1/Syne2/Mns1/Gpsm2/Hspa1b	9

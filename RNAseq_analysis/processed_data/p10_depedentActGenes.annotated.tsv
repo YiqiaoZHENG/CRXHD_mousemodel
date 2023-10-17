@@ -1,0 +1,187 @@
+gene	GENEID	Name	rna_group
+Grk1	ENSMUSG00000031450	G protein-coupled receptor kinase 1(Grk1)	Group1
+Optn	ENSMUSG00000026672	optineurin(Optn)	Group1
+Kirrel	ENSMUSG00000041734	kirre like nephrin family adhesion molecule 1(Kirrel)	Group1
+Gngt1	ENSMUSG00000029663	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1(Gngt1)	Group1
+Cplx4	ENSMUSG00000024519	complexin 4(Cplx4)	Group1
+Abhd3	ENSMUSG00000002475	abhydrolase domain containing 3(Abhd3)	Group1
+Frmpd1	ENSMUSG00000035615	FERM and PDZ domain containing 1(Frmpd1)	Group1
+Slc24a1	ENSMUSG00000034452	solute carrier family 24 (sodium/potassium/calcium exchanger), member 1(Slc24a1)	Group1
+Dnah9	ENSMUSG00000056752	dynein, axonemal, heavy chain 9(Dnah9)	Group1
+Arl4d	ENSMUSG00000034936	ADP-ribosylation factor-like 4D(Arl4d)	Group1
+Nim1k	ENSMUSG00000095930	NIM1 serine/threonine protein kinase(Nim1k)	Group1
+Grtp1	ENSMUSG00000038515	GH regulated TBC protein 1(Grtp1)	Group1
+Plcd3	ENSMUSG00000020937	phospholipase C, delta 3(Plcd3)	Group1
+Polg2	ENSMUSG00000020718	polymerase (DNA directed), gamma 2, accessory subunit(Polg2)	Group1
+Dhrs3	ENSMUSG00000066026	dehydrogenase/reductase (SDR family) member 3(Dhrs3)	Group1
+Plch2	ENSMUSG00000029055	phospholipase C, eta 2(Plch2)	Group1
+Tnfsf12	ENSMUSG00000097328	tumor necrosis factor (ligand) superfamily, member 12(Tnfsf12)	Group1
+Sntg2	ENSMUSG00000020672	syntrophin, gamma 2(Sntg2)	Group1
+Klhl36	ENSMUSG00000031828	kelch-like 36(Klhl36)	Group1
+Ndufaf5	ENSMUSG00000027384	NADH:ubiquinone oxidoreductase complex assembly factor 5(Ndufaf5)	Group1
+Rangrf	ENSMUSG00000032892	RAN guanine nucleotide release factor(Rangrf)	Group1
+Bicdl1	ENSMUSG00000041609	BICD family like cargo adaptor 1(Bicdl1)	Group1
+Pfkfb2	ENSMUSG00000026409	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2(Pfkfb2)	Group1
+Marveld3	ENSMUSG00000001672	MARVEL (membrane-associating) domain containing 3(Marveld3)	Group1
+Ccdc24	ENSMUSG00000078588	coiled-coil domain containing 24(Ccdc24)	Group1
+Arg2	ENSMUSG00000021125	arginase type II(Arg2)	Group1
+Mkrn2os	ENSMUSG00000068011	makorin, ring finger protein 2, opposite strand(Mkrn2os)	Group1
+Tnnt1	ENSMUSG00000064179	troponin T1, skeletal, slow(Tnnt1)	Group1
+Ppp1r42	ENSMUSG00000025916	protein phosphatase 1, regulatory subunit 42(Ppp1r42)	Group1
+Katnal2	ENSMUSG00000025420	katanin p60 subunit A-like 2(Katnal2)	Group1
+Ptpru	ENSMUSG00000028909	protein tyrosine phosphatase, receptor type, U(Ptpru)	Group1
+Gm17018	ENSMUSG00000041035	deleted in primary ciliary dyskinesia(Dpcd)	Group1
+Tmem218	ENSMUSG00000032121	transmembrane protein 218(Tmem218)	Group1
+Gnb5	ENSMUSG00000032192	guanine nucleotide binding protein (G protein), beta 5(Gnb5)	Group1
+Fbxo27	ENSMUSG00000037463	F-box protein 27(Fbxo27)	Group1
+Ttc39c	ENSMUSG00000024424	tetratricopeptide repeat domain 39C(Ttc39c)	Group1
+Kif21b	ENSMUSG00000041642	kinesin family member 21B(Kif21b)	Group1
+Ing2	ENSMUSG00000063049	inhibitor of growth family, member 2(Ing2)	Group1
+Mgarp	ENSMUSG00000037161	mitochondria localized glutamic acid rich protein(Mgarp)	Group1
+Ric8b	ENSMUSG00000035620	RIC8 guanine nucleotide exchange factor B(Ric8b)	Group1
+Ybx3	ENSMUSG00000030189	Y box protein 3(Ybx3)	Group1
+Mapk11	ENSMUSG00000053137	mitogen-activated protein kinase 11(Mapk11)	Group1
+Zfyve28	ENSMUSG00000037224	zinc finger, FYVE domain containing 28(Zfyve28)	Group1
+Cdr2	ENSMUSG00000030878	cerebellar degeneration-related 2(Cdr2)	Group1
+Arl3	ENSMUSG00000025035	ADP-ribosylation factor-like 3(Arl3)	Group1
+Pdia5	ENSMUSG00000022844	protein disulfide isomerase associated 5(Pdia5)	Group1
+Bst1	ENSMUSG00000029082	bone marrow stromal cell antigen 1(Bst1)	Group1
+Abca4	ENSMUSG00000028125	ATP-binding cassette, sub-family A (ABC1), member 4(Abca4)	Group1
+Stk35	ENSMUSG00000037885	serine/threonine kinase 35(Stk35)	Group1
+Klhl3	ENSMUSG00000014164	kelch-like 3(Klhl3)	Group1
+Slc16a1	ENSMUSG00000032902	solute carrier family 16 (monocarboxylic acid transporters), member 1(Slc16a1)	Group1
+Fam160a1	ENSMUSG00000051000	FHF complex subunit HOOK interacting protein 1A(Fhip1a)	Group1
+St6galnac5	ENSMUSG00000039037	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5(St6galnac5)	Group1
+Gpsm2	ENSMUSG00000027883	G-protein signalling modulator 2 (AGS3-like, C. elegans)(Gpsm2)	Group1
+Drd4	ENSMUSG00000025496	dopamine receptor D4(Drd4)	Group1
+Wdr78	ENSMUSG00000035126	dynein axonemal intermediate chain 4(Dnai4)	Group1
+Rp1	ENSMUSG00000025900	retinitis pigmentosa 1 (human)(Rp1)	Group1
+Syne2	ENSMUSG00000063450	spectrin repeat containing, nuclear envelope 2(Syne2)	Group1
+Lrit3	ENSMUSG00000093865	leucine-rich repeat, immunoglobulin-like and transmembrane domains 3(Lrit3)	Group1
+Rpgrip1	ENSMUSG00000057132	retinitis pigmentosa GTPase regulator interacting protein 1(Rpgrip1)	Group1
+Pip4k2c	ENSMUSG00000025417	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma(Pip4k2c)	Group1
+Tube1	ENSMUSG00000019845	tubulin, epsilon 1(Tube1)	Group1
+Hmgn1	ENSMUSG00000040681	high mobility group nucleosomal binding domain 1(Hmgn1)	Group1
+Cep250	ENSMUSG00000038241	centrosomal protein 250(Cep250)	Group1
+Crocc	ENSMUSG00000040860	ciliary rootlet coiled-coil, rootletin(Crocc)	Group1
+Fam161a	ENSMUSG00000049811	family with sequence similarity 161, member A(Fam161a)	Group1
+6430571L13Rik	ENSMUSG00000037977	RIKEN cDNA 6430571L13 gene(6430571L13Rik)	Group1
+Btc	ENSMUSG00000082361	betacellulin, epidermal growth factor family member(Btc)	Group1
+Gnb1	ENSMUSG00000029064	guanine nucleotide binding protein (G protein), beta 1(Gnb1)	Group1
+Impdh1	ENSMUSG00000003500	inosine monophosphate dehydrogenase 1(Impdh1)	Group1
+Gadd45a	ENSMUSG00000036390	growth arrest and DNA-damage-inducible 45 alpha(Gadd45a)	Group1
+Spg7	ENSMUSG00000000738	SPG7, paraplegin matrix AAA peptidase subunit(Spg7)	Group1
+Bbs5	ENSMUSG00000063145	Bardet-Biedl syndrome 5 (human)(Bbs5)	Group1
+Tdrd7	ENSMUSG00000035517	tudor domain containing 7(Tdrd7)	Group1
+Cngb1	ENSMUSG00000031789	cyclic nucleotide gated channel beta 1(Cngb1)	Group1
+Icmt	ENSMUSG00000039662	isoprenylcysteine carboxyl methyltransferase(Icmt)	Group1
+Rdh12	ENSMUSG00000021123	retinol dehydrogenase 12(Rdh12)	Group1
+Kcnb1	ENSMUSG00000050556	potassium voltage gated channel, Shab-related subfamily, member 1(Kcnb1)	Group1
+Pde6b	ENSMUSG00000029491	phosphodiesterase 6B, cGMP, rod receptor, beta polypeptide(Pde6b)	Group1
+Slc17a7	ENSMUSG00000070570	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7(Slc17a7)	Group1
+Rom1	ENSMUSG00000071648	rod outer segment membrane protein 1(Rom1)	Group1
+Myo7a	ENSMUSG00000030761	myosin VIIA(Myo7a)	Group1
+Gucy2e	ENSMUSG00000020890	guanylate cyclase 2e(Gucy2e)	Group1
+Snta1	ENSMUSG00000027488	syntrophin, acidic 1(Snta1)	Group1
+Paqr4	ENSMUSG00000023909	progestin and adipoQ receptor family member IV(Paqr4)	Group1
+Ccdc126	ENSMUSG00000050786	coiled-coil domain containing 126(Ccdc126)	Group1
+Zdhhc12	ENSMUSG00000015335	zinc finger, DHHC domain containing 12(Zdhhc12)	Group1
+Tob2	ENSMUSG00000048546	transducer of ERBB2, 2(Tob2)	Group1
+Fance	ENSMUSG00000007570	Fanconi anemia, complementation group E(Fance)	Group1
+Nrl	ENSMUSG00000040632	neural retina leucine zipper gene(Nrl)	Group1
+Lmbr1l	ENSMUSG00000022999	limb region 1 like(Lmbr1l)	Group1
+Prr14	ENSMUSG00000030822	proline rich 14(Prr14)	Group1
+Slc29a2	ENSMUSG00000024891	solute carrier family 29 (nucleoside transporters), member 2(Slc29a2)	Group1
+Pde6g	ENSMUSG00000025386	phosphodiesterase 6G, cGMP-specific, rod, gamma(Pde6g)	Group1
+Gpx4	ENSMUSG00000075706	glutathione peroxidase 4(Gpx4)	Group1
+Sap30l	ENSMUSG00000020519	SAP30-like(Sap30l)	Group1
+Cutal	ENSMUSG00000026870	cutA divalent cation tolerance homolog-like(Cutal)	Group1
+Guk1	ENSMUSG00000020444	guanylate kinase 1(Guk1)	Group1
+Vtn	ENSMUSG00000017344	vitronectin(Vtn)	Group1
+Plekhg3	ENSMUSG00000052609	pleckstrin homology domain containing, family G (with RhoGef domain) member 3(Plekhg3)	Group1
+Rabgef1	ENSMUSG00000025340	RAB guanine nucleotide exchange factor (GEF) 1(Rabgef1)	Group1
+Plekhf2	ENSMUSG00000049969	pleckstrin homology domain containing, family F (with FYVE domain) member 2(Plekhf2)	Group1
+Rad51	ENSMUSG00000027323	RAD51 recombinase(Rad51)	Group1
+Exoc3l	ENSMUSG00000043251	exocyst complex component 3-like(Exoc3l)	Group1
+Rdm1	ENSMUSG00000010362	RAD52 motif 1(Rdm1)	Group1
+Hspa1b	ENSMUSG00000090877	heat shock protein 1B(Hspa1b)	Group1
+Rtbdn	ENSMUSG00000048617	retbindin(Rtbdn)	Group1
+Kpna2	ENSMUSG00000018362	karyopherin (importin) alpha 2(Kpna2)	Group1
+Susd3	ENSMUSG00000021384	sushi domain containing 3(Susd3)	Group1
+Fam57b	ENSMUSG00000058966	TLC domain containing 3B(Tlcd3b)	Group1
+Scn4a	ENSMUSG00000001027	sodium channel, voltage-gated, type IV, alpha(Scn4a)	Group1
+Proser2	ENSMUSG00000045319	proline and serine rich 2(Proser2)	Group1
+Cnga1	ENSMUSG00000067220	cyclic nucleotide gated channel alpha 1(Cnga1)	Group1
+Gucy2f	ENSMUSG00000042282	guanylate cyclase 2f(Gucy2f)	Group1
+Esrrb	ENSMUSG00000021255	estrogen related receptor, beta(Esrrb)	Group1
+Ckmt1	ENSMUSG00000000308	creatine kinase, mitochondrial 1, ubiquitous(Ckmt1)	Group1
+A930003A15Rik	ENSMUSG00000075330	RIKEN cDNA A930003A15 gene(A930003A15Rik)	Group1
+Cabp4	ENSMUSG00000024842	calcium binding protein 4(Cabp4)	Group1
+Padi2	ENSMUSG00000028927	peptidyl arginine deiminase, type II(Padi2)	Group1
+Ndufs2	ENSMUSG00000013593	NADH:ubiquinone oxidoreductase core subunit S2(Ndufs2)	Group1
+Ccdc187	ENSMUSG00000048038	coiled-coil domain containing 187(Ccdc187)	Group1
+Rnf207	ENSMUSG00000058498	ring finger protein 207(Rnf207)	Group1
+Nadk2	ENSMUSG00000022253	NAD kinase 2, mitochondrial(Nadk2)	Group1
+Snx10	ENSMUSG00000038301	sorting nexin 10(Snx10)	Group1
+Arhgap10	ENSMUSG00000037148	Rho GTPase activating protein 10(Arhgap10)	Group1
+Mpp4	ENSMUSG00000079550	membrane protein, palmitoylated 4 (MAGUK p55 subfamily member 4)(Mpp4)	Group1
+Slco4a1	ENSMUSG00000038963	solute carrier organic anion transporter family, member 4a1(Slco4a1)	Group1
+Pla2r1	ENSMUSG00000054580	phospholipase A2 receptor 1(Pla2r1)	Group1
+Rho	ENSMUSG00000030324	rhodopsin(Rho)	Group1
+Rcvrn	ENSMUSG00000020907	recoverin(Rcvrn)	Group1
+Gnat1	ENSMUSG00000034837	guanine nucleotide binding protein, alpha transducing 1(Gnat1)	Group1
+Dhh	ENSMUSG00000023000	desert hedgehog(Dhh)	Group1
+Ppara	ENSMUSG00000022383	peroxisome proliferator activated receptor alpha(Ppara)	Group1
+Col5a3	ENSMUSG00000004098	collagen, type V, alpha 3(Col5a3)	Group1
+Prcd	ENSMUSG00000075410	photoreceptor disc component(Prcd)	Group1
+Nxnl1	ENSMUSG00000034829	nucleoredoxin-like 1(Nxnl1)	Group1
+Ccdc113	ENSMUSG00000036598	coiled-coil domain containing 113(Ccdc113)	Group1
+Alpl	ENSMUSG00000028766	alkaline phosphatase, liver/bone/kidney(Alpl)	Group1
+Trim36	ENSMUSG00000033949	tripartite motif-containing 36(Trim36)	Group2
+Svil	ENSMUSG00000024236	supervillin(Svil)	Group2
+Uckl1	ENSMUSG00000089917	uridine-cytidine kinase 1-like 1(Uckl1)	Group2
+Igsf9	ENSMUSG00000037995	immunoglobulin superfamily, member 9(Igsf9)	Group2
+Gckr	ENSMUSG00000059434	glucokinase regulatory protein(Gckr)	Group2
+Tmem266	ENSMUSG00000032313	transmembrane protein 266(Tmem266)	Group2
+Kcne2	ENSMUSG00000039672	potassium voltage-gated channel, Isk-related subfamily, gene 2(Kcne2)	Group2
+Pde6c	ENSMUSG00000024992	phosphodiesterase 6C, cGMP specific, cone, alpha prime(Pde6c)	Group2
+Guca1a	ENSMUSG00000023982	guanylate cyclase activator 1a (retina)(Guca1a)	Group2
+Gnat2	ENSMUSG00000009108	guanine nucleotide binding protein, alpha transducing 2(Gnat2)	Group2
+Mns1	ENSMUSG00000032221	meiosis-specific nuclear structural protein 1(Mns1)	Group2
+Kifc3	ENSMUSG00000031788	kinesin family member C3(Kifc3)	Group2
+Ldha	ENSMUSG00000063229	lactate dehydrogenase A(Ldha)	Group2
+Sp6	ENSMUSG00000038560	trans-acting transcription factor 6(Sp6)	Group2
+Ano2	ENSMUSG00000038115	anoctamin 2(Ano2)	Group2
+Rhpn1	ENSMUSG00000022580	rhophilin, Rho GTPase binding protein 1(Rhpn1)	Group2
+Reep6	ENSMUSG00000035504	receptor accessory protein 6(Reep6)	Group2
+1190005I06Rik	ENSMUSG00000043687	RIKEN cDNA 1190005I06 gene(1190005I06Rik)	Group2
+Mylk	ENSMUSG00000022836	myosin, light polypeptide kinase(Mylk)	Group2
+Ttll3	ENSMUSG00000030276	tubulin tyrosine ligase-like family, member 3(Ttll3)	Group2
+Sec14l2	ENSMUSG00000003585	SEC14-like lipid binding 2(Sec14l2)	Group2
+Wdr66	ENSMUSG00000029442	WD repeat domain 66(Wdr66)	Group2
+Rgs20	ENSMUSG00000002459	regulator of G-protein signaling 20(Rgs20)	Group2
+Knstrn	ENSMUSG00000027331	kinetochore-localized astrin/SPAG5 binding(Knstrn)	Group2
+Ptpn21	ENSMUSG00000021009	protein tyrosine phosphatase, non-receptor type 21(Ptpn21)	Group2
+Dnaic1	ENSMUSG00000061322	dynein axonemal intermediate chain 1(Dnai1)	Group2
+Aqp1	ENSMUSG00000004655	aquaporin 1(Aqp1)	Group2
+Samd11	ENSMUSG00000096351	sterile alpha motif domain containing 11(Samd11)	Group2
+Trafd1	ENSMUSG00000042726	TRAF type zinc finger domain containing 1(Trafd1)	Group2
+Kcnv2	ENSMUSG00000047298	potassium channel, subfamily V, member 2(Kcnv2)	Group2
+Cnga3	ENSMUSG00000026114	cyclic nucleotide gated channel alpha 3(Cnga3)	Group2
+Chst3	ENSMUSG00000057337	carbohydrate sulfotransferase 3(Chst3)	Group2
+Klhl18	ENSMUSG00000054792	kelch-like 18(Klhl18)	Group2
+Fryl	ENSMUSG00000070733	FRY like transcription coactivator(Fryl)	Group2
+Frmd4b	ENSMUSG00000030064	FERM domain containing 4B(Frmd4b)	Group2
+Spata1	ENSMUSG00000028188	spermatogenesis associated 1(Spata1)	Group2
+Map4k3	ENSMUSG00000024242	mitogen-activated protein kinase kinase kinase kinase 3(Map4k3)	Group2
+Nectin1	ENSMUSG00000032012	nectin cell adhesion molecule 1(Nectin1)	Group2
+Pcbp4	ENSMUSG00000023495	poly(rC) binding protein 4(Pcbp4)	Group2
+Ccndbp1	ENSMUSG00000023572	cyclin D-type binding-protein 1(Ccndbp1)	Group2
+Adcy6	ENSMUSG00000022994	adenylate cyclase 6(Adcy6)	Group2
+St3gal1	ENSMUSG00000013846	ST3 beta-galactoside alpha-2,3-sialyltransferase 1(St3gal1)	Group2
+Usp6nl	ENSMUSG00000039046	USP6 N-terminal like(Usp6nl)	Group2
+Lmnb1	ENSMUSG00000024590	lamin B1(Lmnb1)	Group2
+Ppef2	ENSMUSG00000029410	protein phosphatase, EF hand calcium-binding domain 2(Ppef2)	Group2
+Eno2	ENSMUSG00000004267	enolase 2, gamma neuronal(Eno2)	Group2
+Pde6h	ENSMUSG00000064330	phosphodiesterase 6H, cGMP-specific, cone, gamma(Pde6h)	Group2
+Arr3	ENSMUSG00000060890	arrestin 3, retinal(Arr3)	Group2

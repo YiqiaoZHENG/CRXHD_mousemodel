@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+wt1_ip,retina,WT,1,alignedbam/wt1_ip.sorted.blk.bam,wt1_input,alignedbam/wt1_input.sorted.blk.bam,macs2peak/wt1_macs2/wt1_macs2_peaks.narrowPeak,narrow
+wt2_ip,retina,WT,2,alignedbam/wt2_ip.sorted.blk.bam,wt2_input,alignedbam/wt2_input.sorted.blk.bam,macs2peak/wt2_macs2/wt2_macs2_peaks.narrowPeak,narrow
+e1_ip,retina,E80A,1,alignedbam/e1_ip.sorted.blk.bam,e1_input,alignedbam/e1_input.sorted.blk.bam,macs2peak/e1_macs2/e1_macs2_peaks.narrowPeak,narrow
+e2_ip,retina,E80A,2,alignedbam/e2_ip.sorted.blk.bam,e2_input,alignedbam/e2_input.sorted.blk.bam,macs2peak/e2_macs2/e2_macs2_peaks.narrowPeak,narrow
+k1_ip,retina,K88N,1,alignedbam/k1_ip.sorted.blk.bam,k1_input,alignedbam/k1_input.sorted.blk.bam,macs2peak/k1_macs2/k1_macs2_peaks.narrowPeak,narrow
+k2_ip,retina,K88N,2,alignedbam/k2_ip.sorted.blk.bam,k2_input,alignedbam/k2_input.sorted.blk.bam,macs2peak/k2_macs2/k2_macs2_peaks.narrowPeak,narrow
+r1_ip,retina,R90W,1,alignedbam/r1_ip.sorted.blk.bam,r1_input,alignedbam/r1_input.sorted.blk.bam,macs2peak/r1_macs2/r1_macs2_peaks.narrowPeak,narrow
+r2_ip,retina,R90W,2,alignedbam/r2_ip.sorted.blk.bam,r2_input,alignedbam/r2_input.sorted.blk.bam,macs2peak/r2_macs2/r2_macs2_peaks.narrowPeak,narrow
