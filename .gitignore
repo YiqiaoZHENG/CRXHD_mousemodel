@@ -24,3 +24,15 @@ ipython_config.py
 # https://gist.github.com/octocat/9257657
 # https://github.com/github/gitignore/blob/main/Python.gitignore
 # https://github.com/github/gitignore/blob/main/R.gitignore
+
+
+git config --global user.name yiqiao.zheng
+git config --global user.email yiqiao.zheng@wustl.edu
+
+# 101723 push the entire thing to github
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/YiqiaoZHENG/CRXHD_mousemodel.git
+git push -u origin main
